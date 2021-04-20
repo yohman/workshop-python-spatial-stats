@@ -1,4 +1,6 @@
+# Introduction to Spatial Statistics with Python
 
+<img src="images/sa-1.png">
 
 Visual interpretations are meaningful ways to determine spatial trends in our data. However, underlying factors—such as inconsistent geographies, scale, data gaps, overlapping data—have the potential to produce incorrect assumptions, as valuable information may be conveniently hidden from the visual output.
 

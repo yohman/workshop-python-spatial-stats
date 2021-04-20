@@ -1,0 +1,9 @@
+pandas
+sodapy
+geopandas
+contextily
+esda
+splot
+libpysal
+matplotlib
+plotly

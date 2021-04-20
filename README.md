@@ -9,3 +9,7 @@ One way to address this issue is to amend your visual output with geo-statistica
 “Everything is related to everything else. But near things are more related than distant things”. Waldo Tobler’s (1969) First Law of Geography
 
 In other words, things that happen somewhere are likely to also happen at nearby locations.
+
+## Binder link to non-UCLA participants
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yohman/workshop-python-spatial-stats/HEAD?filepath=Spatial%20Autocorrelation.ipynb)

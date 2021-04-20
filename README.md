@@ -19,4 +19,6 @@ Choose "University of California, Los Angeles" from the drop down and launch (ju
 
 ## Binder link to non-UCLA participants
 
+Warning: Launching the binder link will take about 5 minutes.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yohman/workshop-python-spatial-stats/HEAD?filepath=Spatial%20Autocorrelation.ipynb)

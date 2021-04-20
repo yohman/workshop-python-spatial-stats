@@ -12,7 +12,7 @@ In other words, things that happen somewhere are likely to also happen at nearby
 
 ## Jupyter Hub link for UCLA participants
 
-Choose "University of California, Los Angeles" from the drop down and launch (just type "UCLA" in the search box).
+Choose "University of California, Los Angeles" from the drop down for "Identity Provider" and launch (just type "UCLA" in the search box).
 
 - [UCLA JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2Fworkshop-python-spatial-stats&urlpath=tree%2Fworkshop-python-spatial-stats%2FSpatial+Autocorrelation.ipynb&branch=main)
 
